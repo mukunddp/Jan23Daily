@@ -101,11 +101,19 @@ def factorial(num):
     elif num == 1:
         return 1
     return num * factorial(num-1)
+
+def add(num):
+    if num == 0:
+        return 1
+    elif num == 1:
+        return 1
+    return num * factorial(num-1)
 # num = 4
 # 4 * (3 * (2 * (1 * 1)))
 # print(factorial(0))
 # print(factorial(1))
 print(factorial(4))
+print(factorial(10))
 
 # which function is preferable for writing a code Recursion function or normal function????
 

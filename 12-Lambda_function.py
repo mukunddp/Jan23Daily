@@ -142,10 +142,10 @@ ls = [10, 15, 12, 15, 14, 19, 13]
 # def fun(a, b):print(a+b)
 # fun(10,20)
 
-age = [8, 12, 25, 15, 16, 19, 20, 25, 23, 65, 48]
-for i in age: print()
-if 26 >= 25: print('')
-
-# def fun(age):for i in age: if i >=25: print(i)
-
-num = []
+# age = [8, 12, 25, 15, 16, 19, 20, 25, 23, 65, 48]
+# for i in age: print()
+# if 26 >= 25: print('')
+#
+# # def fun(age):for i in age: if i >=25: print(i)
+#
+# num = []
